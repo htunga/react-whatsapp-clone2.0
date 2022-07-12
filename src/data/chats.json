@@ -1,0 +1,75 @@
+{
+    "contacts": [
+        {
+
+            "profilePictureURL": "https://pps.whatsapp.net/v/t61.24694-24/227723283_621319455620587_2546999499566072587_n.jpg?stp=dst-jpg_s96x96&amp;ccb=11-4&amp;oh=01_AVxwKSx2ycpbtBdZY5Ibnm8nG3HDEaUSdeQvoHda-8JkpQ&amp;oe=62D20F01",
+            "names": "Pettersen",
+            "lastMessageTimeStamp": 1657093090489,
+            "lastMessage": "Hello",
+            "messageStatus": 1,
+            "received":true,
+            "contactId":"1"
+        },
+        {
+            "profilePictureURL": "https://pps.whatsapp.net/v/t61.24694-24/292153700_985737842117451_3538596057759536981_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=1cea257b14ec80643c8a4f6b298809d6&oe=62D50D99",
+            "names": "Kari",
+            "lastMessageTimeStamp": 1657093090489,
+            "lastMessage": "Friend.",
+            "messageStatus": 1,
+            "contactId":"2"
+        },
+        {
+            "profilePictureURL": "https://pps.whatsapp.net/v/t61.24694-24/292153700_985737842117451_3538596057759536981_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=1cea257b14ec80643c8a4f6b298809d6&oe=62D50D99",
+            "names": "Tove",
+            "lastMessageTimeStamp": 1657093090489,
+            "lastMessage": "Joshway Tour",
+            "messageStatus": 1,
+            "contactId":"3"
+        },
+        {
+            "profilePictureURL": "https://pps.whatsapp.net/v/t61.24694-24/292153700_985737842117451_3538596057759536981_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=1cea257b14ec80643c8a4f6b298809d6&oe=62D50D99",
+            "names": "Alii",
+            "lastMessageTimeStamp": 1657093090489,
+            "lastMessage": "Amen",
+            "messageStatus": 0,
+            "contactId":"4"
+        },
+        {
+            "profilePictureURL": "https://pps.whatsapp.net/v/t61.24694-24/292153700_985737842117451_3538596057759536981_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=1cea257b14ec80643c8a4f6b298809d6&oe=62D50D99",
+            "names": "Alie",
+            "lastMessageTimeStamp": 1657093090489,
+            "lastMessage": "Amen",
+            "messageStatus": 0,
+            "contactId":"5"
+        },
+        {
+            "profilePictureURL": "https://pps.whatsapp.net/v/t61.24694-24/292153700_985737842117451_3538596057759536981_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=1cea257b14ec80643c8a4f6b298809d6&oe=62D50D99",
+            "names": "Aline",
+            "lastMessageTimeStamp": 1657093090489,
+            "lastMessage": "Great",
+            "messageStatus": 2,
+            "contactId":"6"
+        },
+        {
+            "profilePictureURL": "https://pps.whatsapp.net/v/t61.24694-24/292153700_985737842117451_3538596057759536981_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=1cea257b14ec80643c8a4f6b298809d6&oe=62D50D99",
+            "names": "Aline",
+            "lastMessageTimeStamp": 1657093090489,
+            "lastMessage": "Great",
+            "messageStatus": 2,
+            "contactId":"7"
+        }
+    ]
+    ,"MESSAGE_STATUS":{
+        "1":[{
+            "messages":"Hey",
+            "type":0,
+            "status":1
+        },
+        {
+            "messages":"Hey",
+            "type":0,
+            "status":1 
+        }
+    ]
+    }
+}
